@@ -6,6 +6,6 @@
  
   - name: Hello World!
     shell: echo "Hi! Tower is working."
-
-  - name: Hello World!
-    shall: dnf update
+  
+  - name: Hello World!  
+    shell: dnf update
