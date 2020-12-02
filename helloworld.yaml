@@ -8,4 +8,4 @@
     shell: echo "Hi! Tower is working."
   
   - name: Hello World!  
-    shell: dnf update
+    shell: ping -c 5 192.168.6.40
